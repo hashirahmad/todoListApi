@@ -1,0 +1,19 @@
+{
+  "name": "To Do List API",
+  "version": "1.0.0",
+  "description": "This exercise can be done in just a few hours, but you will have 24 hours after receiving these instructions to send back your solution. The goal is to create a simple tasks & projects API. While making it work is the minimum requirement, you will also be judged on how you think in terms of use cases, edge cases, error handling, etc., and also on code structure, quality and consistency. Write your est/cleanest code, and don’t forget comments for every function, and a ReadMe file.",
+  "title": "To Do List API",
+  "url" 		: "",
+  "sampleUrl": "DYNAMIC",
+  "header": {
+    "title": "Overview",
+    "filename": "src/templates/apidocs_template/header.md"
+  },
+  "footer": {
+    "filename": "src/templates/apidocs_template/footer.md"
+  },
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
